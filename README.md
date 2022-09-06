@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/dyanikoglu/dyanikoglu/blob/master/ue5-hero.png"><img src="https://github.com/dyanikoglu/dyanikoglu/blob/master/ue5-hero.png"></a>
+  <a href="newlogo.png"><img src="newlogo.png"></a>
 </p>
 ### Hi there 👋
 
