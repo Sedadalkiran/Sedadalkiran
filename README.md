@@ -1,3 +1,6 @@
+<p align="center">
+  <a href="https://github.com/dyanikoglu/dyanikoglu/blob/master/ue5-hero.png"><img src="https://github.com/dyanikoglu/dyanikoglu/blob/master/ue5-hero.png"></a>
+</p>
 ### Hi there 👋
 
 <!--
