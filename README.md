@@ -5,7 +5,7 @@
  
 ## My Latest Game Projects:
 
-- [Death Relives](https://www.nyctophilestudios.com/)
+- [Death Relives](https://store.steampowered.com/app/1987400/Death_Relives/)
 - Dirilis Ertugrul the Game
 - [Era of Newborns](https://store.steampowered.com/app/991740/Era_Of_Newborns/)
 
