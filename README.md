@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="./d_ca_c_e_c_mp_.mp4"><video src="./d_ca_c_e_c_mp_.mp4" width="100%" controls autoplay loop muted></video></a>
+ <a href="newbanner.png"><img src="newbanner.png"></a>
 </p>
  Hi there 👋
  
