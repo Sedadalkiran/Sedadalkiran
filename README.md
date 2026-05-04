@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="newlogo.png"><img src="newlogo.png"></a>
+  <a href="banner.png"><img src="banner.png"></a>
 </p>
  Hi there 👋
  
