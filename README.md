@@ -1,5 +1,9 @@
+
+
+
+
 <p align="center">
- <a href="newbanner.png"><img src="newbanner.png"></a>
+  <video src="https://github.com/user-attachments/assets/edcdb5e8-d527-4ea1-8a9d-61edf0a6966e" width="100%" autoplay loop muted playsinline></video>
 </p>
  Hi there 👋
  
