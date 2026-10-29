@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/875a43f8-e2b8-486f-aea5-049e5c7dcc82" alt="Unreal Engine Developer Banner" width="100%">
+
 </p>
  Hi there 👋
  
